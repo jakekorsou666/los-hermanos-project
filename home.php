@@ -24,7 +24,7 @@
 <header>
         <h1>BMI Calculator</h1>
 <article>
-<form method="POST" action="index.php">
+<form method="POST" action="php/index.php">
 <label for="text">Weight in kilogram (kg):</label><br>
 <input type="text" name="weight">
 <br> 
