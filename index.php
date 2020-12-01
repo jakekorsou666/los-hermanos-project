@@ -21,6 +21,7 @@ function bmi($weight,$height) {
 $bmi = $weight/($height*$height);
 return $bmi;
 }
+
 $bmi = bmi($weight,$height);
     if ($bmi <= 18.5) {
     $output = "hey boney start eating";
